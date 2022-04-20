@@ -48,17 +48,17 @@ body{
 }
 
 
-.number1{rotate: 30deg;}
-.number2{rotate: 60deg;}
-.number3{rotate: 90deg;}
-.number4{rotate: 120deg;}
-.number5{rotate: 150deg;}
-.number6{rotate: 180deg;}
-.number7{rotate: 210deg;}
-.number8{rotate: 240deg;}
-.number9{rotate: 270deg;}
-.number10{rotate: 300deg;}
-.number11{rotate: 330deg;}
+.number1{transform:rotate(30deg);}
+.number2{transform:rotate(60deg);}
+.number3{transform:rotate(90deg);}
+.number4{transform:rotate(120deg);}
+.number5{transform:rotate(150deg);}
+.number6{transform:rotate(180deg);}
+.number7{transform:rotate(210deg);}
+.number8{transform:rotate(240deg);}
+.number9{transform:rotate(270deg);}
+.number10{transform:rotate(300deg);}
+.number11{transform:rotate(330deg);}
 
 
 
